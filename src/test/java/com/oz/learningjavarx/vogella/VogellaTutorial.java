@@ -1,4 +1,4 @@
-package com.oz.learningjavarx;
+package com.oz.learningjavarx.vogella;
 
 import io.reactivex.Maybe;
 import io.reactivex.disposables.Disposable;
